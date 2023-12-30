@@ -1,4 +1,4 @@
-Hi 👋 My name is Nikita Orliak
+Hi 👋 My name is Nikita
 ==============================
 
 Frontend Developer
