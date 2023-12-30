@@ -1,7 +1,7 @@
 Hi 👋 My name is Nikita
 ==============================
 
-I'm Frontend Developer
+I'm a Frontend Developer
 ------------------
 
 I've been learning code for 7 months now. I started with HTML/CSS and continued with SASS/JavaScript/React/Typescript/Redux.
