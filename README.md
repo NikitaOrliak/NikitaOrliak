@@ -6,8 +6,8 @@ I'm a Frontend Developer
 
 I've been learning code for 7 months now. I started with HTML/CSS and continued with SASS/JavaScript/React/Typescript/Redux.
 
-* 🌍  I'm based in Ukraine (in Italy now)
-* ✉️  You can contact me at [nikitonorl@gmail.com](mailto:nikitonorl@gmail.com)
+* 🌍  Currently based in Italy
+* ✉️  You can contact me at [nikitonorl@gmail.com](mailto:orliaknikita@gmail.com)
 * 🧠  I'm learning JS OOP and English now
 * 🤝  I'm open to collaborating on Every possible project
 * ⚡  I'm trying my best
