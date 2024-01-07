@@ -6,11 +6,11 @@ I'm a Frontend Developer
 
 I've been learning code for 7 months. I started with HTML/CSS and continued with SASS/JavaScript/React/Typescript/Redux.
 
-* 🌍  I'm currently based in Italy
+* 🌍  Currently reside in Italy
+* 🧠  Upgrading my JavaScript and React knowledge, Evolving OOP skills, Polishing English level, currently strong B2
+* 🤝  Continuously collaborating on various projects
+* ⚡  Growing both as a human and as a professional 
 * ✉️  You can contact me at [orliaknikita@gmail.com](mailto:orliaknikita@gmail.com)
-* 🧠  I'm learning JS OOP and English now
-* 🤝  I'm open to collaborating on Every possible project
-* ⚡  I'm trying my best
 
 ### Skills
 
